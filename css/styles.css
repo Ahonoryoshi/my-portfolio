@@ -7,3 +7,9 @@ body {
   background-color: #cccccc;
   background-image: url("fern.jpg");
 }
+h2 {
+  color: cyan;
+}
+.header {
+  color: red;
+}
