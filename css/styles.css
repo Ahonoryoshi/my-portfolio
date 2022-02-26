@@ -1,0 +1,9 @@
+.mine {
+  width: 30%;
+  height: auto;
+  float: left;
+}
+body {
+  background-color: #cccccc;
+  background-image: url("fern.jpg");
+}
