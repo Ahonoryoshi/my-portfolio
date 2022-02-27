@@ -24,8 +24,10 @@ h2 {
   font-size: x-large;
 }
 .box {
+  background-image: url(../images/landscape.webp);
   border: solid brown;
   font-style: italic;
+  color: rgb(8, 250, 230);
 }
 .date {
   color: rgb(25, 160, 25);
