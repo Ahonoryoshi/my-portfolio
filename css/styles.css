@@ -25,4 +25,5 @@ h2 {
 }
 .box {
   border: solid brown;
+  font-style: italic;
 }
