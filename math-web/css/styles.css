@@ -30,7 +30,7 @@ h1 {
 .key {
   color: brown;
 }
-<<<<<<< HEAD
+
 .side {
   width: 70%;
 }
@@ -43,5 +43,6 @@ h1 {
 body {
   font-size: x-large;
 }
-=======
->>>>>>> 5ccb832a9b32b06988f46212cad83fdca429adab
+.nav {
+  float: left;
+}
