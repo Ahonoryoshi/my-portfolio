@@ -27,3 +27,6 @@ h2 {
   border: solid brown;
   font-style: italic;
 }
+.date {
+  color: rgb(25, 160, 25);
+}
