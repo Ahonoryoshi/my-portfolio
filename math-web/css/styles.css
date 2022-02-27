@@ -1,0 +1,47 @@
+img.right {
+  float: right;
+}
+.left {
+  float: left;
+}
+.auth {
+  font-style: italic;
+  color: red;
+}
+.nat {
+  color: blue;
+}
+body {
+  background-color: aliceblue;
+}
+.sub {
+  font-weight: bolder;
+  font-size: small;
+}
+.it {
+  font-style: italic;
+}
+.header {
+  text-align: center;
+}
+h1 {
+  color: crimson;
+}
+.key {
+  color: brown;
+}
+<<<<<<< HEAD
+.side {
+  width: 70%;
+}
+.gau {
+  width: 60%;
+}
+.yes {
+  float: right;
+}
+body {
+  font-size: x-large;
+}
+=======
+>>>>>>> 5ccb832a9b32b06988f46212cad83fdca429adab
