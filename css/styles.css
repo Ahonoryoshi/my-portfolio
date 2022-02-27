@@ -32,3 +32,6 @@ h2 {
 .date {
   color: rgb(25, 160, 25);
 }
+.odd {
+  font-size: larger;
+}
