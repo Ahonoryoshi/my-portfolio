@@ -1,0 +1,15 @@
+.name {
+  color: rgb(206, 13, 39);
+  font-size: larger;
+}
+.price {
+  color: rgb(39, 17, 238);
+  font-size: large;
+  font-style: italic;
+}
+h2 {
+  color: darkmagenta;
+}
+h1 {
+  color: crimson;
+}
