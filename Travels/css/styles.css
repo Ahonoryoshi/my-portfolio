@@ -1,0 +1,16 @@
+.big {
+  width: 100px;
+}
+.header {
+  font-style: inherit;
+  color: #f7325e;
+}
+p {
+  color: #7dc410;
+}
+.popular {
+  font-style: italic;
+}
+.tropica {
+  font-style: oblique;
+}
